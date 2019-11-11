@@ -1,7 +1,7 @@
 version: '2'
 services:
     auth:
-        image: f-auth:latest
+        image: fucking-auth:0.0.1-SNAPSHOT
         container_name: auth
         restart: always
         ports:
